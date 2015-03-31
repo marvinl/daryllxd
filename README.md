@@ -24,7 +24,7 @@ To reverse a word in your terminal:
 
     darify insert-word-here
 
-Or use it inside your console:
+Or use it in your console:
 
     "insert-word-here".darify!
 
