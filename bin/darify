@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'daryllxd'
+puts ARGV[0].to_s.darify!

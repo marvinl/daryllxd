@@ -6,11 +6,11 @@ require 'daryllxd/version'
 Gem::Specification.new do |spec|
   spec.name          = "daryllxd"
   spec.version       = Daryllxd::VERSION
-  spec.authors       = ["Jedford Seculles"]
-  spec.email         = ["jfjade18@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.authors       = ["Jedford Seculles", "Mark Anthony Aventura"]
+  spec.email         = ["jfjade18@gmail.com", "jeds@sourcepad.com", "marka@sourcepad.com"]
+  spec.summary       = %q{A gem inspired from crazy way of talking by Daryll, our colleague.}
+  spec.description   = %q{This gem will reverse any word by syllables.}
+  spec.homepage      = "www.sourcepad.com"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
