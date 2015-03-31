@@ -20,9 +20,13 @@ Or install it yourself as:
 
 ## Usage
 
-To reverse a word:
+To reverse a word in your terminal:
 
     darify insert-word-here
+
+Or use it inside your console:
+
+    "insert-word-here".darify!
 
 ## Authors
 
