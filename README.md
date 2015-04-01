@@ -20,6 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
+To run:
+
+    $ pry
+
 To reverse a word in your terminal:
 
     darify insert-word-here
